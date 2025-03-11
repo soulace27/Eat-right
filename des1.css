@@ -1,0 +1,249 @@
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+ 
+header {
+    padding: 40px;
+    
+    background-color: rgb(91, 206, 226);
+}
+header h2{
+    text-align: center;
+    text-shadow: 3px 4px 4px rgb(107, 243, 223);
+    font-family: 'Lobster Two';
+   
+    font-size: 40px;
+    color: rgb(217, 96, 201);
+    
+
+}
+header nav a {
+   color: black;
+font-family: 'Roboto Condensed';
+    font-size: 25px;
+    
+}
+.menu-btn:hover{
+    
+    color: indigo;
+}
+a:visited{
+    color: rgb(202, 16, 165);
+}
+.Whatisnutrition{
+    font-family: 'Fjalla One';
+      color: indigo;
+      font-size: 25px;
+      margin-top: 70px;
+      padding: 50px;
+    margin-bottom: 70px ;
+      font-display: center;
+      font-weight: bold;
+      text-align: center;
+      
+}
+
+.Whatisnutrition div#Whatisnutrition h2 {
+    text-decoration: underline;
+    font-size: 30px;
+color: brown;
+
+}
+.Whatisnutrition div#Whatisnutrition h3 em {
+    font-family: 'Lobster Two';
+   
+
+}
+.Whatisnutrition div#Whatisnutrition h3 p{
+    font-family: 'Fjalla One';
+    color: black;
+}
+.Calories{
+font-family: 'Signika Negative';
+text-align: center;
+color: darkblue;
+font-size: 25px;
+font-weight: bold;
+
+}
+.Calories div#Calories h3 em  {
+    margin-top: 15px;
+    padding-top: 20px;
+    padding: 50px;
+    margin-bottom: 70px ;
+   font-family: 'Fjalla One';
+   text-decoration-line: underline;
+  text-decoration-style: wavy;
+   color: forestgreen;
+}
+.Calories div#Calories  ul li h4{
+    margin-top: 70px;
+    padding: 50px;
+    margin-bottom: 70px ;
+}
+.Calories div#Calories span em{
+    color: darkgoldenrod;
+    font-size: 30px;
+    text-decoration: underline  brown;
+    font-family: 'Lobster Two';
+    text-shadow: 5px 5px 5px rgb(247, 247, 55);
+}
+.Calories div#Calories h4 p{
+    border-style:solid;
+    border-width: 4px;
+    border-color: rgb(54, 99, 10);
+}
+.Howmuchproteinyouneed h3{
+    margin-top: 70px;
+    padding: 50px;
+    margin-bottom: 70px;
+font-size: 35px;
+color:midnightblue;
+}
+.Howmuchproteinyouneed{
+
+    font-family: 'Fjalla One';
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+}
+.Howmuchproteinyouneed div#Howmuchproteinyouneed h3 p em{
+    border-style:solid;
+    font-family: 'Lobster Two';
+    color: rgb(115, 10, 115);
+    border-width: 4px;
+    border-color: rgb(7, 35, 105);
+}
+
+
+.Fats div#Fats h3 {
+    margin-top: 70px;
+    margin-bottom: 70px;
+    padding: 50px;
+    font-family: 'Fjalla One';
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(89, 43, 10);
+}
+.Fats div#Fats h4 { font-family: 'Signika Negative';
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    font-size: 25px;
+     font-weight: bold;
+     color:black;
+}
+.Fats{
+    text-align: center;
+
+}
+.Vitaminsandothermicronutrients div#Vitaminsandothermicronutrients h2{
+    font-family: 'Fjalla One';
+    margin-top: 50px;
+    margin-bottom: 70px;
+    font-size: 40px;
+    text-align: center;
+    color: rgb(182, 188, 10);
+}
+.Vitaminsandothermicronutrients div#Vitaminsandothermicronutrients h3{
+    font-family: 'Lobster Two';
+    font-size: 35px;
+    text-align: center;
+    color: orangered;
+    margin: 20px;
+    padding: 30px;
+    text-shadow: 4px 4px 4px pink;
+    font-weight: bold;
+    border-style:solid;
+    border-width: 4px;
+    border-color: rgb(79, 32, 12);
+    
+    
+}
+.Vitaminsandothermicronutrients div#Vitaminsandothermicronutrients h4{
+    font-family: 'Fjalla One';
+    font-size: 25px;
+    text-align: center;
+     font-weight: bold;
+     color:peru;
+
+}
+.Vitaminsandothermicronutrients div#Vitaminsandothermicronutrients p+ol{
+    font-family: 'Fjalla One';
+    font-size: 25px;
+    text-align: center;
+     font-weight: bold;
+     color:rgb(25, 157, 80);
+}
+.Sourcesofnutrients{
+    margin-top: 60px;
+    font-family: 'Signika Negative';
+    font-size: 35px;
+    padding: 20px;
+    text-align: center;
+     font-weight: bold;
+     color:rgb(76, 8, 101);
+}
+.Foodhacks div#Foodhacks h3{
+    margin-top: 60px;
+    font-family: 'Fjalla One';
+    font-size: 30px;
+    font-weight: bold;
+    padding: 50px;
+    color:hotpink;
+    text-align: center;
+    text-shadow: 4px 4px 4px lightpink;
+}
+.Healthysnacksvendingmachine div#Healthysnacksvendingmachine  h3 {
+    font-family: 'Fjalla One';
+    margin-top: 70px;
+    padding: 50px;
+    margin-bottom: 70px;
+    font-size: 35px;
+    font-weight: bold;
+    color:rgb(151, 10, 10);
+    text-align: center;
+    text-shadow: 4px 4px 4px rgb(234, 135, 209);
+}
+.Healthysnacksvendingmachine div#Healthysnacksvendingmachine {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Fjalla One';
+    
+}
+.Personaliseyourdiet div#Personaliseyourdiet h2{
+    font-size: 35px;
+    margin-top: 70px;
+    padding: 50px;
+    margin-bottom: 70px;
+    text-align: center;
+    font-weight: bold;
+    color: cornflowerblue;
+    font-family: 'Fjalla One';
+}
+.Personaliseyourdiet div#Personaliseyourdiet {
+    font-size: 25px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(177, 65, 200);
+    font-family: 'Fjalla One';
+}
+footer{
+    margin-top: 70px;
+    padding: 50px;
+    margin-bottom: 70px;
+    font-family: 'Signika Negative';
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+}
+footer {background-color: rgb(91, 206, 226);
+    overflow: hidden;
+   
+    color: rgb(17, 17, 23);
+}
+
